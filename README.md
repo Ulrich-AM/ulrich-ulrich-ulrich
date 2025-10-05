@@ -8,11 +8,11 @@ all of the stuff i put here as your own! okay, maybe don't do that, but still.
 You can use this site as a reference or base for your own projects, just don't attempt to sell the crappy content on here.
 
 ## Table of Content
---**Main Menu**
-----|>**Math Related**
-------|>**Area Calculators**
-------|>**Distance Finder (Coordinates)**
-----|>**Games**
-------|>**Basket Catch**
-------|>**Click Thing**
-----|>**Other**
+- --**Main Menu**
+- ----|>**Math Related**
+- ------|>**Area Calculators**
+- ------|>**Distance Finder (Coordinates)**
+- ----|>**Games**
+- ------|>**Basket Catch**
+- ------|>**Click Thing**
+- ----|>**Other**
