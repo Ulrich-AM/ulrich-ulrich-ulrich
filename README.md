@@ -9,10 +9,10 @@ You can use this site as a reference or base for your own projects, just don't a
 
 ## Table of Content
 - --**Main Menu**
-- ----|>**Math Related**
-- ------|>**Area Calculators**
-- ------|>**Distance Finder (Coordinates)**
-- ----|>**Games**
-- ------|>**Basket Catch**
-- ------|>**Click Thing**
-- ----|>**Other**
+- ------|>**Math Related**
+- ------------|>**Area Calculators**
+- ------------|>**Distance Finder (Coordinates)**
+- ------|>**Games**
+- ------------|>**Basket Catch**
+- ------------|>**Click Thing**
+- ------|>**Other**
