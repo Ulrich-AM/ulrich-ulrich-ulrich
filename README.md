@@ -7,6 +7,8 @@ Fn+F12 all you want all over the site, look at the files, copy the files, heck, 
 all of the stuff i put here as your own! okay, maybe don't do that, but still. 
 You can use this site as a reference or base for your own projects, just don't attempt to sell the crappy content on here.
 
+You may also why the site is called ulrich ulrich ulrich? well, thats actually because - i don't know.
+
 ## Table of Content
 - --**Main Menu**
 - ------|>**Math Related**
